@@ -7,3 +7,5 @@ AI-Powered: Watch the Q-learning AI agent adapt and optimize its strategy to ach
 Interactive Learning: Observe the AI's learning graph and understand the impact of reinforcement learning.  
 Customizable Settings: Adjust game parameters and learning algorithms to experiment with different AI behaviors.  
 
+## Getting Started
+Instructions on how to set up the Snake game and run the Q-learning AI agent on your local machine.  
